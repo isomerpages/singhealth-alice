@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Launch of Alice Lee Innovation Centre of Excellence
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
