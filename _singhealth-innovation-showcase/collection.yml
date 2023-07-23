@@ -2,6 +2,7 @@ collections:
   singhealth-innovation-showcase:
     output: true
     order:
+      - Featuring Projects/.keep
       - Featuring Project 3.md
       - Featuring Project 2.md
       - Featuring Project 1.md
