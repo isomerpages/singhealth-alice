@@ -2,6 +2,7 @@ collections:
   forewords:
     output: true
     order:
+      - AMII Co Chair from Duke NUS/AMII Co Chair 01.md
       - AMII Co Chair from Duke NUS/.keep
       - Ms Lee Chen Ee.md
       - Prof Henry.md
