@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: "Launch "
+    collection: example-folder
+  - title: Forewords
+    collection: example-folder
+  - title: Project Showcase
+    collection: example-folder
+  - title: A.L.I.C.E @ SGH Campus
     collection: example-folder
