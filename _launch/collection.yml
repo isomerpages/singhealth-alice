@@ -2,6 +2,7 @@ collections:
   launch:
     output: true
     order:
+      - Event Detail.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
