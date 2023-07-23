@@ -1,5 +1,5 @@
 collections:
-  singhealth-innovation-showcase:
+  project-showcase:
     output: true
     order:
       - Featuring Projects/Featuring Project 3.md
