@@ -1,4 +1,5 @@
 collections:
   forewords:
     output: true
-    order: []
+    order:
+      - Prof Henry.md
