@@ -2,7 +2,6 @@ collections:
   project-showcase:
     output: true
     order:
-      - Experiential Showcase Project.md
       - Experiential Showcase Projects/.keep
       - Experiential Showcase Projects/Physical Project 1.md
       - Experiential Showcase Projects/Physical Project 2.md
