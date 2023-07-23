@@ -2,6 +2,7 @@ collections:
   launch:
     output: true
     order:
+      - Programme Schedule.md
       - Overview.md
       - Event Detail.md
       - folder-page.md
