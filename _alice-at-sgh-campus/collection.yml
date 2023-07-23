@@ -1,4 +1,5 @@
 collections:
   alice-at-sgh-campus:
     output: true
-    order: []
+    order:
+      - Unveiling of the new brand.md
