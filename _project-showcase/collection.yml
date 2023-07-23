@@ -2,11 +2,11 @@ collections:
   project-showcase:
     output: true
     order:
-      - Featuring Projects/.keep
-      - Featuring Projects/Featuring Project 1.md
-      - Featuring Projects/Featuring Project 2.md
-      - Featuring Projects/Featuring Project 3.md
       - Experiential Showcase Projects/.keep
       - Experiential Showcase Projects/Physical Project 1.md
       - Experiential Showcase Projects/Physical Project 2.md
       - Experiential Showcase Projects/Physical Project 3.md
+      - Featuring Projects/.keep
+      - Featuring Projects/Featuring Project 1.md
+      - Featuring Projects/Featuring Project 2.md
+      - Featuring Projects/Featuring Project 3.md
