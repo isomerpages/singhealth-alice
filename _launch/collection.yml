@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  launch:
     output: true
     order:
       - folder-page.md
