@@ -10,7 +10,7 @@ sections:
       title: Welcome to A.L.I.C.E @ SGH Campus Launch Site
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: "About the Event "
+      button: About the Event
       url: /contact-us/
       key_highlights:
         - title: Programme Schedule
