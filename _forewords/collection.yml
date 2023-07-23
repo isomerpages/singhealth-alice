@@ -2,4 +2,5 @@ collections:
   forewords:
     output: true
     order:
+      - Prof Henry/Lets hear from out management.md
       - Prof Henry/.keep
