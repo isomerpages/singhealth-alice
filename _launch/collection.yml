@@ -2,9 +2,9 @@ collections:
   launch:
     output: true
     order:
-      - Programme Schedule.md
       - Overview.md
       - Event Detail.md
+      - Programme Schedule.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
