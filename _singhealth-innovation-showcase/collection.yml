@@ -2,5 +2,4 @@ collections:
   singhealth-innovation-showcase:
     output: true
     order:
-      - Experiential Showcase Projects/Experiential Showcase Projects.md
       - Experiential Showcase Projects/.keep
