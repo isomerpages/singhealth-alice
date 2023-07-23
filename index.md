@@ -18,7 +18,7 @@ sections:
           url: https://google.com
         - title: Word by Senior Management
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: Project Showcase
           description: ""
           url: /privacy/
