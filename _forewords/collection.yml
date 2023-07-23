@@ -2,4 +2,4 @@ collections:
   forewords:
     output: true
     order:
-      - Forewords.md
+      - Lets hear from out management.md
