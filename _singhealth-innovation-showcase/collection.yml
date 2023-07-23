@@ -1,4 +1,5 @@
 collections:
   singhealth-innovation-showcase:
     output: true
-    order: []
+    order:
+      - Experiential Showcase Projects.md
