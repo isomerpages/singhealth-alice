@@ -2,10 +2,10 @@ collections:
   project-showcase:
     output: true
     order:
-      - Featuring Projects/.keep
-      - Featuring Projects/uSine.md
-      - Featuring Projects/Respiree.md
-      - Featuring Projects/AiTriage.md
+      - Experiential Showcase Project/.keep
+      - Experiential Showcase Project/uSine.md
+      - Experiential Showcase Project/Respiree.md
+      - Experiential Showcase Project/AiTriage.md
       - Experiential Showcase Projects/.keep
       - Experiential Showcase Projects/Physical Project 1.md
       - Experiential Showcase Projects/Physical Project 2.md
