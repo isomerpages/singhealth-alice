@@ -29,5 +29,5 @@ Some minor conditions (P3) can be self-triaged, and the severity assigned by a s
 
 
 Click below to find out more 
-*  [STARK Project Result]()
+*  [STARK Project Result ](/files/stark%20project%20result.pdf)
 *  [Self-Triage and Registration Kiosk (STARK) for the Emergency Department](/files/stark%20for%20emergency%20department%20patients%20.pdf)
