@@ -4,7 +4,6 @@ permalink: /project-showcase/experiential-showcase-projects/physical-projects-1/
 description: ""
 third_nav_title: Featured Projects
 ---
-
 ![CGH logo](/images/cgh%20logo.png)
 
 **Project** 
