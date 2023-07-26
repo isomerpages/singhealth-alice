@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Featuring Projects/.keep
-      - Featuring Projects/Featuring Project 1.md
+      - Featuring Projects/uSine.md
       - Featuring Projects/Featuring Project 2.md
       - Featuring Projects/Featuring Project 3.md
       - Experiential Showcase Projects/.keep
