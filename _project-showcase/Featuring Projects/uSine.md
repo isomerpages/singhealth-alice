@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Featuring Projects
 image: /images/USine/usine logo.png
 ---
-
 ![usine logo](/images/USine/usine%20logo.png)
 
 **Project name**
