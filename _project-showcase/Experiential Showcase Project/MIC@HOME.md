@@ -43,6 +43,3 @@ MIC (Mobile Inpatient Care) @Home is a “virtual ward” service that allows su
 	
 	
 **Patient Journey**
-	
-	
-	
