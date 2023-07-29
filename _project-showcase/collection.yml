@@ -2,6 +2,7 @@ collections:
   project-showcase:
     output: true
     order:
+      - Experiential Showcase Project/MIC@HOME.md
       - Experiential Showcase Project/Gold Finger.md
       - Experiential Showcase Project/VisBuddy.md
       - Experiential Showcase Project/CHROMA.md
