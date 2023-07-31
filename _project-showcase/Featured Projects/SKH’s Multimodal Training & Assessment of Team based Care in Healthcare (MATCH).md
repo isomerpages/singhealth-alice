@@ -8,4 +8,4 @@ third_nav_title: Featured Projects
 
 SKH MATCH is an innovation learning solution designed to enhance team effectiveness of multidisciplinary care teams through a series of self-directed game scenarios that demonstrate the application of concepts and tools in the TeamSTEPPSTM programme. Learners are immersed in the simulated work environment and will learn to apply the appropriate TeamSTEPPSTM tools dynamically to improve the patient outcomes.
 
-<img style="width:70%" src="/images/match%20logo.png">
+<img style="width:60%" src="/images/match%20logo.png">
