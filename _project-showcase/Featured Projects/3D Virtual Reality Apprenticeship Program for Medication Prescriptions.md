@@ -1,6 +1,0 @@
----
-title: 3D Virtual Reality Apprenticeship Program for Medication Prescriptions
-permalink: /project-showcase/featured-projects/3d-virtual-reality-apprenticeship-program-for-medication/
-description: ""
-third_nav_title: Featured Projects
----
