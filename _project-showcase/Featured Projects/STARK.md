@@ -4,7 +4,7 @@ permalink: /project-showcase/experiential-showcase-projects/featured-projects/st
 description: ""
 third_nav_title: Featured Projects
 ---
-<img style="width:70%" src="/images/cgh%20logo.png">
+<img style="width:50%" src="/images/cgh%20logo.png">
 
 **Project** <br>
 Self-Triage and Registration Kiosk (STARK) for the Emergency Department
