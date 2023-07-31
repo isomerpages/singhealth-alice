@@ -4,20 +4,16 @@ permalink: /project-showcase/experiential-showcase-projects/featured-projects/st
 description: ""
 third_nav_title: Featured Projects
 ---
-![CGH logo](/images/cgh%20logo.png)
+<img style="width:70%" src="/images/cgh%20logo.png">
 
-**Project** 
-
+**Project** <br>
 Self-Triage and Registration Kiosk (STARK) for the Emergency Department
 
 **Synopsis**
 
-
-![STARK Product](/images/stark%20machine%20picture.png)
-
+<img style="width:80%" src="/images/stark%20machine%20picture.png">
 
 Patient registration and triaging in the Emergency Department is manpower intensive, mentally taxing and time consuming. We can automate this safely while preserving patient confidentiality
-
 
 The patient’s BP, PR, temperature, and oxygen saturation are measured by self-administered medical grade devices. 
 
@@ -27,8 +23,6 @@ Some minor conditions (P3) can be self-triaged, and the severity assigned by a s
 *  Minor cuts and bruises 
 *  URTI
 *  Upper and Lower Limb Injuries 
-
-
 
 Click below to find out more 
 *  [STARK Project Result ](/files/stark%20project%20result.pdf)
