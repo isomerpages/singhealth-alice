@@ -24,7 +24,7 @@ Click below to find out more:
 *  [Self-Triage and Registration Kiosk (STARK) for the Emergency Department](/files/stark%20for%20emergency%20department%20patients%20.pdf)
 
 <div>
-<div style="float: right">
-<img style="width:60%" src="/images/cgh%20logo.png">
+<div style="float: left">
+<img style="width:80%" src="/images/cgh%20logo.png">
 </div>
 <div></div></div>
