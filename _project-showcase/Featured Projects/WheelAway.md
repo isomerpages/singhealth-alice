@@ -12,4 +12,4 @@ Occupational Therapists conduct training and assessments to prescribe PMAs. The 
 
 We are exploring the use of virtual reality software for home-based competency training to reduce the time taken to master skills. 
 
-<img style="width:30%" src="/images/skgh-logo.png" align="right">
+<img style="width:20%" src="/images/skgh-logo.png" align="right">
