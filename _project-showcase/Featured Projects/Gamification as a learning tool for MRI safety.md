@@ -8,6 +8,6 @@ Magnetic Resonance (MR) safety plays an important role in ensuring safety of pat
 
 <div>
 <div style="float: right">
-<img style="width:50%" src="/images/nmi%20logo.png">
+<img style="width:30%" src="/images/nmi%20logo.png">
 </div>
 <div></div></div>
