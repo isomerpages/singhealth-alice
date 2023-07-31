@@ -6,8 +6,7 @@ third_nav_title: Featured Projects
 ---
 <img style="width:50%" src="/images/cgh%20logo.png">
 
-**Project** <br>
-Self-Triage and Registration Kiosk (STARK) for the Emergency Department
+### Self-Triage and Registration Kiosk (STARK) for the Emergency Department
 
 **Synopsis**
 
