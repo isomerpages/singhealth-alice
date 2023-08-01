@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use
 sections:
   - hero:
-      title: Welcome to A.L.I.C.E @ SGH Campus Launch Site
-      subtitle: Hero subtitle
+      title: " Launch of A.L.I.C.E "
+      subtitle: "@ SGH Campus"
       background: /images/hero-banner.png
       button: About the Event
       url: /contact-us/
