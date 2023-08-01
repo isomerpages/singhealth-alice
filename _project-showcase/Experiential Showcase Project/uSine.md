@@ -9,4 +9,4 @@ image: /images/USine/usine logo.png
 
 uSINE® is the world’s first ultrasound-based guidance system that determines the needle insertion point using machine-learning algorithm and automated spinal landmark ultrasound imaging of the lumbar spine identifying the correct insertion point. This enables clinicians to conduct pre-procedural scan for precise needle insertion to avoid multiple puncture attempts and enhance patient care. This technology is recently implemented in clinical practice.
 
-<img style="width:30%" src="/images/USine/usine%20logo.png" align="right">
+<img style="width:30%" src="/images/Experiential%20Showcases/USine/usine%20logo.png" align="right">
