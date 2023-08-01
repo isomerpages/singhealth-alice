@@ -13,4 +13,4 @@ This study aims to assess the feasibility and efficacy of a 10-weekly multi-doma
 * Nicole Chen Yun Ching, Senior Clinical Neuropsychologist, Changi General Hospital (Co-PI)
 * Louisa Tan Mei Ying, Senior Clinical Psychologist, Changi General Hospital (Team Member)
 
-<img style="width:70%" src="/images/Feat%20Proj:%20VR%20Cognitive%20Tng/vr%20cognitive%20training%20logos.png">
+<img style="width:70%" src="/images/Featured%20Projects/VR%20Cognitive%20Training/vr%20cognitive%20training%20logos.png">
