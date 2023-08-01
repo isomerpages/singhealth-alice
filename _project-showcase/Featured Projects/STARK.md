@@ -6,7 +6,7 @@ third_nav_title: Featured Projects
 ---
 ### Self-Triage and Registration Kiosk (STARK) for the Emergency Department
 
-<img style="width:80%" src="/images/Feat%20Proj:%20STARK/stark%20machine%20picture.png">
+<img style="width:80%" src="/images/Featured%20Projects/STARK/stark%20machine%20picture.png">
 
 Patient registration and triaging in the Emergency Department is manpower intensive, mentally taxing and time consuming. We can automate this safely while preserving patient confidentiality.
 
