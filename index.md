@@ -4,10 +4,10 @@ title: Launch of Alice Lee Innovation Centre of Excellence
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use
+notification: ""
 sections:
   - hero:
-      title: " Launch of A.L.I.C.E "
+      title: Launch of A.L.I.C.E
       subtitle: "@ SGH Campus"
       background: /images/hero-banner.png
       button: About the Event
@@ -16,17 +16,18 @@ sections:
         - title: Programme Schedule
           description: ""
           url: https://google.com
-        - title: Word by Senior Management
-          description: ""
-          url: ""
-        - title: Project Showcase
+        - title: Unveiling of the new brand
           description: ""
           url: /privacy/
-        - title: The journey of innovation
-          description: ""
-          url: ""
+  - infopic:
+      title: A.L.I.C.E @ SGH Campus
+      subtitle: About the launch of
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Reverse Guidebook
+      subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
