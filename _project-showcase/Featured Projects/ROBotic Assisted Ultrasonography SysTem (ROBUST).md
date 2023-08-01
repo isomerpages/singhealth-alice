@@ -8,4 +8,4 @@ third_nav_title: Featured Projects
 
 The innovation reduces work-related musculoskeletal disorders in radiographers due to repetitive movements and awkward scanning positions. The ROBUST aids radiographers in performing ultrasound by holding and moving the transducer, while a 6- Degree Of Freedom controller enables remote control. Image quality showed no significant difference between ROBUST and manual scanning. Both radiographer and patient groups reported good comfort and acceptance of the innovation.
 
-<img style="width:60%" src="/images/Feat%20Proj:%20ROBUST/robust%20logo.png">
+<img style="width:60%" src="/images/Featured%20Projects/ROBUST/robust%20logo.png">
