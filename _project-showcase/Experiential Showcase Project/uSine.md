@@ -5,13 +5,8 @@ description: ""
 third_nav_title: Experiential Showcase Project
 image: /images/USine/usine logo.png
 ---
-![usine logo](/images/USine/usine%20logo.png)
-
-**Project name**
-
-The development and implementation of a novel ultrasound guided spinal landmark automated identification system uSINE®
-
-**Synopsis**
+### The world’s first artificial intelligence-powered (AI) ultrasound guided automated spinal landmark identification system, uSINE®
 
 uSINE® is the world’s first ultrasound-based guidance system that determines the needle insertion point using machine-learning algorithm and automated spinal landmark ultrasound imaging of the lumbar spine identifying the correct insertion point. This enables clinicians to conduct pre-procedural scan for precise needle insertion to avoid multiple puncture attempts and enhance patient care. This technology is recently implemented in clinical practice.
-(60 words)
+
+<img style="width:30%" src="/images/USine/usine%20logo.png" align="right">
