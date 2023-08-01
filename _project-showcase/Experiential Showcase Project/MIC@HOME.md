@@ -36,5 +36,11 @@ MIC (Mobile Inpatient Care) @Home is a “virtual ward” service that allows su
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoListParagraph" style="margin:0in;margin-bottom:.0001pt;mso-add-space:
   auto;line-height:normal"><span style="mso-ansi-language:EN-US">An interim evaluation of SGH@Home revealed that patients are appreciative of the option to receive hospital-level care in the comfort of their homes, feel safe, and is assured of the quality of care.<b><u></u></b></span></p></td></tr></tbody></table>
 	
-**Patient Journey**
+**Patient Journey** <br>
+![](/images/Experiential%20Showcases/MIC@HOME/image%201.jpg)
 
+**QR Code** <br>
+
+
+
+For more information on SGH@HOME, please visit: https://www.sgh.com.sg/patient-care/specialties-services/Family-Medicine-Continuing-Care/Pages/SGH-at-Home.aspx
