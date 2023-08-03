@@ -6,3 +6,5 @@ links:
     collection: forewords
   - title: Project Showcase
     collection: project-showcase
+  - title: Project Showcase
+    url: /project-showcase
