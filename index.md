@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Launch of A.L.I.C.E
       subtitle: "@ SGH Campus"
-      background: /images/hero-banner.png
+      background: /images/ck och inno ctr 0020-min.JPG
       button: About the Event
       url: /overview
       key_highlights:
