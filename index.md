@@ -18,7 +18,7 @@ sections:
           url: /launch/programme-schedule
         - title: Unveiling of the new brand
           description: ""
-          url: /privacy/
+          url: /unveiling-of-the-new-brand
   - infopic:
       title: A.L.I.C.E @ SGH Campus
       subtitle: About the launch of
