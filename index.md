@@ -30,7 +30,7 @@ sections:
   - infopic:
       title: Reverse Guidebook
       subtitle: CHECK OUT OUR
-      description: To navigate Singhealth's network of partnerships, clinicians &
+      description: Learn more about Singhealth's network of partnerships, clinicians &
         innovation projects if you are a prospective commercial partner!
       button: CLICK HERE
       alt: Image alt text
