@@ -7,7 +7,7 @@ description: ""
 
 <div class="row">
   <div class="column">
-		<a href="https://hicuramedical.com/usine-technology/">
+		<a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/permalink/experiential-showcase-project/usine/">
     <img style="width:100%" alt="uSine" src="/images/Experiential%20Showcases/USine/usine%20logo.png"> 
 		</a>
   </div>
