@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/isomer banner.png
+      background: /images/ck och inno ctr 0020-min.JPG
       key_highlights:
         - title: Programme Schedule
           description: ""
@@ -15,12 +15,16 @@ sections:
         - title: Unveiling of the new brand
           description: ""
           url: /unveiling-of-the-new-brand
+      title: Launch of A.L.I.C.E
+      button: About the event
+      url: /launch/overview/
+      subtitle: "@ SGH Campus"
   - infopic:
       title: A.L.I.C.E @ SGH Campus
       subtitle: About the launch of
-      description: "Formerly known as The Innovation Centre (TIC), the launch marks
-        our rebranding to A.L.I.C.E through the generous philantropic donation
-        from the Lee Foundation. "
+      description: Formerly known as The Innovation Centre (TIC), the launch marks our
+        rebranding to A.L.I.C.E through the generous philantropic donation from
+        the Lee Foundation.
       button: CLICK HERE TO LEARN MORE
       alt: Image alt text
       url: /launch/overview
