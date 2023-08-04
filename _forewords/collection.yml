@@ -2,6 +2,6 @@ collections:
   forewords:
     output: true
     order:
-      - Ms Lee Chen Ee.md
       - A Prof Henry Ho.md
+      - Ms Lee Chen Ee.md
       - A Prof Christopher Laing.md
