@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Launch of A.L.I.C.E
       subtitle: "@ SGH Campus"
-      background: /images/ck och inno ctr 0020-min.JPG
+      background: /images/alice lee innovation centre of excellence.png
       button: About the Event
       url: /overview
       key_highlights:
@@ -27,6 +27,7 @@ sections:
       button: CLICK HERE TO LEARN MORE
       alt: Image alt text
       url: /launch/overview
+      image: /images/ck och inno ctr 0058-min.JPG
   - infopic:
       title: Reverse Guidebook
       subtitle: CHECK OUT OUR
