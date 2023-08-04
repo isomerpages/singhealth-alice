@@ -11,7 +11,7 @@ sections:
       subtitle: "@ SGH Campus"
       background: /images/hero-banner.png
       button: About the Event
-      url: /contact-us/
+      url: /overview
       key_highlights:
         - title: Programme Schedule
           description: ""
