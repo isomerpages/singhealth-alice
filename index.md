@@ -35,4 +35,5 @@ sections:
       button: CLICK HERE
       alt: Image alt text
       url: /reverse-guidebook
+      image: /images/sample guidebook.png
 ---
