@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Event Detail.md
+      - Event Details.md
       - Programme Schedule.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
