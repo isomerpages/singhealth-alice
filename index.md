@@ -18,8 +18,9 @@ sections:
   - infopic:
       title: A.L.I.C.E @ SGH Campus
       subtitle: About the launch of
-      description: Formerly known as The Innovation Centre (TIC), the launch marks the
-        official rebranding of TIC to A.L.I.C.E
+      description: "Formerly known as The Innovation Centre (TIC), the launch marks
+        our rebranding to A.L.I.C.E through the generous philantropic donation
+        from the Lee Foundation. "
       button: CLICK HERE TO LEARN MORE
       alt: Image alt text
       url: /launch/overview
