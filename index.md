@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Programme Schedule
           description: ""
-          url: https://google.com
+          url: /launch/programme-schedule
         - title: Unveiling of the new brand
           description: ""
           url: /privacy/
