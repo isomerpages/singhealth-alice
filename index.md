@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Launch of A.L.I.C.E
-      subtitle: "@ SGH Campus"
-      background: /images/alice lee innovation centre of excellence.png
-      button: About the Event
-      url: /overview
+      background: /images/isomer banner.png
       key_highlights:
         - title: Programme Schedule
           description: ""
