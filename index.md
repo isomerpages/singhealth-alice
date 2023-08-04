@@ -29,8 +29,10 @@ sections:
       url: /launch/overview
   - infopic:
       title: Reverse Guidebook
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      subtitle: CHECK OUT OUR
+      description: To navigate Singhealth's network of partnerships, clinicians &
+        innovation projects if you are a prospective commercial partner!
+      button: CLICK HERE
       alt: Image alt text
+      url: /reverse-guidebook
 ---
