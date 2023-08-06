@@ -10,15 +10,8 @@ Patients in the general ward can access their individual care information anytim
 
 **<img style="width:60%" src="/images/Experiential%20Showcases/Nursing%20Software%20suites/logos%20%20%20%20.png" align="right">**
 
-
-
-<div>
-<div>
-
-
-
-
-
+<div> 
+	
 #### Portable bedside activity device
 
 SGH Nursing co-developed a customised bedside activity device that promotes movement through play. The device consists of a sensor-mounted chair, customised game and gamescreen holder. The chair and mount is height adjustable and easy to manoeuvre. A fishing game requiring patient to perform sit-to-stand was developed by Senzehub. This motion detection game provides an intuitive, interactive and engaging gameplay.
@@ -26,4 +19,4 @@ SGH Nursing co-developed a customised bedside activity device that promotes move
 **<img style="width:60%" src="/images/Experiential%20Showcases/Nursing%20Software%20devices/logos%20%20%20.png" align="right">**
 	
 
-</div></div>
+</div>
