@@ -46,7 +46,7 @@ Co-Founder &amp; CMO</strong> </figcaption>
 
 &nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="/images/Experiential%20Showcases/MINT/zx%202%20photo.png">
+&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="![](/images/Experiential%20Showcases/MINT/zx%203photo.png)">
 
 <figcaption> <strong>Mr Zhou Xiong 
 Business Lead</strong> </figcaption>
@@ -55,7 +55,7 @@ Business Lead</strong> </figcaption>
 
 &nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;<img style="width:75%" alt="Forest" src="/images/Experiential%20Showcases/MINT/xq%20picture.png">
+&nbsp;&nbsp;<img style="width:80%" alt="Forest" src="/images/Experiential%20Showcases/MINT/xq%20picture.png">
 <figcaption> <strong> Dr Fang Xiaoqin
 Business Lead
 </strong> </figcaption>
