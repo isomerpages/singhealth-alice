@@ -12,9 +12,10 @@ Patients in the general ward can access their individual care information anytim
 
 
 
-**<div>**
+<div>
+<div>
 
-**<div style="float: left">**
+
 
 
 
