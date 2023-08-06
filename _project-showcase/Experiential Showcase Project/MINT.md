@@ -38,7 +38,7 @@ Co-Founder &amp; Lead investigator
 
 &nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Forest" src="/images/Experiential%20Showcases/MINT/prof%20belkin%20picture.png">
+&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Forest" src="/images/Experiential%20Showcases/MINT/prof%20belkin%20picture1.png">
 <figcaption> <strong> Prof Michael Belkin, MD
 Co-Founder &amp; CMO</strong> </figcaption>
 
@@ -46,7 +46,7 @@ Co-Founder &amp; CMO</strong> </figcaption>
 
 &nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="/images/Experiential%20Showcases/MINT/zx%20photo.png">
+&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="![](/images/Experiential%20Showcases/MINT/zx%201%20photo.png)">
 
 <figcaption> <strong>Mr Zhou Xiong 
 Business Lead</strong> </figcaption>
