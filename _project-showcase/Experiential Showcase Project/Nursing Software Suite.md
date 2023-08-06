@@ -13,7 +13,11 @@ Patients in the general ward can access their individual care information anytim
 
 	
 &nbsp;
+
 &nbsp;
+
+&nbsp;
+
 
 
 	
