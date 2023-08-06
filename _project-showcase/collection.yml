@@ -2,6 +2,7 @@ collections:
   project-showcase:
     output: true
     order:
+      - Logo/logo.md
       - Logo/.keep
       - Experiential Showcase Project/.keep
       - Experiential Showcase Project/uSine.md
