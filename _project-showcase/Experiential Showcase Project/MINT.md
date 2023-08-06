@@ -23,42 +23,13 @@ The MINT device is a minimally invasive surgical instrument. It provides a safe,
 
 
 
-<div class="row">
+<img src="/images/Experiential%20Showcases/MINT/pi%20&amp;%20team.png">
 
-&nbsp;&nbsp;<div class="column">
+<figcaption> <strong> </strong> </figcaption>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:90%" alt="Snow" src="/images/Experiential%20Showcases/MINT/shamira%20picture.jpg">
-<figcaption> <strong> Assoc Prof Shamira Perera, MD
-Co-Founder &amp; Lead investigator
- </strong> </figcaption>
 
-&nbsp;&nbsp;</div>
 
-&nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:50%" alt="Forest" src="/images/Experiential%20Showcases/MINT/prof%20belkin%201%20picture.png">
-<figcaption> <strong> Prof Michael Belkin, MD
-Co-Founder &amp; CMO</strong> </figcaption>
 
-&nbsp;&nbsp;</div>
-
-&nbsp;&nbsp;<div class="column">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="/images/Experiential%20Showcases/MINT/zx%201%20photo.png">
-
-<figcaption> <strong>Mr Zhou Xiong 
-Business Lead</strong> </figcaption>
-		
-&nbsp;&nbsp;</div>
-
-&nbsp;&nbsp;<div class="column">
-
-&nbsp;&nbsp;<img style="width:100%" alt="Forest" src="/images/Experiential%20Showcases/MINT/xq%201%20picture.png">
-<figcaption> <strong> Dr Fang Xiaoqin
-Business Lead
-</strong> </figcaption>
-		
-</div>
-</div>
 
 **<img style="width:40%" src="/images/Experiential%20Showcases/MINT/seri_fnl_logo_fc.jpg" align="right">**
