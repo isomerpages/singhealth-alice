@@ -25,9 +25,6 @@ The MINT device is a minimally invasive surgical instrument. It provides a safe,
 
 <img src="/images/Experiential%20Showcases/MINT/pi%20&amp;%20team.png">
 
-<figcaption> <strong> </strong> </figcaption>
-
-
 
 
 
