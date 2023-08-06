@@ -2,7 +2,6 @@ collections:
   project-showcase:
     output: true
     order:
-      - Experiential Showcase Project/Logo.md
       - Experiential Showcase Project/.keep
       - Experiential Showcase Project/uSine.md
       - Experiential Showcase Project/Respiree.md
