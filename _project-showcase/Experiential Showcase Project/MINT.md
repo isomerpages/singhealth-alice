@@ -46,7 +46,7 @@ Co-Founder &amp; CMO</strong> </figcaption>
 
 &nbsp;&nbsp;<div class="column">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="![](/images/Experiential%20Showcases/MINT/zx%201%20photo.png)">
+&nbsp;&nbsp;&nbsp;&nbsp;<img style="width:100%" alt="Mountains" src="/images/Experiential%20Showcases/MINT/zx%202%20photo.png">
 
 <figcaption> <strong>Mr Zhou Xiong 
 Business Lead</strong> </figcaption>
