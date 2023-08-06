@@ -21,6 +21,6 @@ Large-scale prefrailty screening using the walking speed and handgrip strength t
 </figure>
 
 
-**<img style="width:30%" src="/images/Experiential%20Showcases/SCREENii/skh%20%20%20.jpg" align="right">**
+**<img style="width:20%" src="/images/Experiential%20Showcases/SCREENii/skh%20%20%20.jpg" align="right">**
 
-**<img style="width:20%" src="/images/Experiential%20Showcases/SCREENii/unisc%20%20%20.png" align="right">**
+**<img style="width:10%" src="/images/Experiential%20Showcases/SCREENii/unisc%20%20%20.png" align="right">**
