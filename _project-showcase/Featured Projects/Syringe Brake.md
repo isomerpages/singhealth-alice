@@ -12,5 +12,4 @@ Syringe Brake is a novel invention as there is no safety device for bolus admini
 **<img style="width:30%" src="/images/Featured%20Projects/Syringe%20brake/cgh%20logo.png" align="right">**  
 
 
-**<img style="width:30%" src="/images/Featured%20Projects/Syringe%20brake/khglobal.png" align="right">**  
-
+**<img style="width:30%" src="/images/Featured%20Projects/Syringe%20brake/khglobal.png" align="right">**
