@@ -10,7 +10,10 @@ Patients in the general ward can access their individual care information anytim
 
 **<img style="width:60%" src="/images/Experiential%20Showcases/Nursing%20Software%20suites/logos%20%20%20%20.png" align="right">**
 
-<div> 
+
+	
+```
+```
 	
 #### Portable bedside activity device
 
@@ -19,4 +22,3 @@ SGH Nursing co-developed a customised bedside activity device that promotes move
 **<img style="width:60%" src="/images/Experiential%20Showcases/Nursing%20Software%20devices/logos%20%20%20.png" align="right">**
 	
 
-</div>
