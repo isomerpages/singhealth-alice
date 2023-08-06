@@ -2,6 +2,7 @@ collections:
   project-showcase:
     output: true
     order:
+      - Experiential Showcase Project/MRI Safe Positioning Probe.md
       - Experiential Showcase Project/.keep
       - Experiential Showcase Project/uSine.md
       - Experiential Showcase Project/Respiree.md
