@@ -12,8 +12,6 @@ third_nav_title: Experiential Showcase Project
 Glaucoma is a leading cause of blindness affecting more than 80 million patients globally. It can be broadly classified into Open angle glaucoma (POAG) and Angle closure glaucoma. Current treatments for POAG are limited in efficacy and safety. 
 The MINT device is a minimally invasive surgical instrument. It provides a safe, efficacious, and easy-to-use treatment for POAG.  
 
-
-
 <figure>
 
 <img src="/images/Experiential%20Showcases/MINT/render4.JPG">
