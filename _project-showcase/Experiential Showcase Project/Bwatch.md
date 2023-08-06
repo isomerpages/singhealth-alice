@@ -20,10 +20,6 @@ BWATCHTM is a lightweight device placed over a patient’s bandage for continuou
 </figure>
 
 
-<img style="width:30%" src="/images/Experiential%20Showcases/Bwatch/cgh%20logo.png" align="right">
-
-
-<img style="width:20%" src="/images/Experiential%20Showcases/Bwatch/sutd%20logo.png" align="right">
-
+<img style="width:60%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png" align="right">
 
 
