@@ -2,7 +2,6 @@ collections:
   project-showcase:
     output: true
     order:
-      - Experiential Showcase Project/MRI Safe Positioning Probe.md
       - Experiential Showcase Project/.keep
       - Experiential Showcase Project/uSine.md
       - Experiential Showcase Project/Respiree.md
@@ -17,6 +16,7 @@ collections:
       - Experiential Showcase Project/SCREENii.md
       - Experiential Showcase Project/CRANIOSAFE.md
       - Experiential Showcase Project/Bwatch.md
+      - Experiential Showcase Project/MRI Safe Positioning Probe.md
       - Featured Projects/.keep
       - Featured Projects/SpiroBooth.md
       - Featured Projects/Telemyofunctional Therapy App.md
