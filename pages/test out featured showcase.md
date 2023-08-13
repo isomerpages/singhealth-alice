@@ -141,8 +141,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/singhealth-innovation-showcase/experiential-showcase-project/respiree/">
-<img style="width:900px" src="/images/Experiential%20Showcases/Respiree/respiree%20logo-02.png">
+ <p><a href="/project-showcase/experiential-showcase-projects/spirobooth/">
+<img style="width:900px" src="/images/Featured%20Projects/SpiroBooth/spirobooth%20logos.png"> SpiroBooth
 </a></p>
   </div>
 </div>
@@ -159,11 +159,10 @@ description: ""
 
 <h1></h1>
 
-<p><a href="/project-showcase/experiential-showcase-project/screenii/">
-<img style="width:500px" src="/images/Experiential%20Showcases/SCREENii/unisc%20%20%20.png"> </a></p><figcaption><a href="/project-showcase/experiential-showcase-project/screenii/"> <strong> SCREENii  </strong> </a></figcaption><a href="/project-showcase/experiential-showcase-project/screenii/">
+<p><a href="/project-showcase/experiential-showcase-projects/featured-projects/stark/">
+<img style="width:800px" src="/images/cgh%20logo.png"> Self-Triage and Registration Kiosk (STARK)
 
-
-</a><p></p>
+</a></p><p></p>
 
 
 
@@ -173,8 +172,8 @@ description: ""
 		
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/experiential-showcase-project/us-2/">
-<img style="width:700px" src="/images/us2%20ai%20logo.png"> 
+ <p><a href="/project-showcase/featured-projects/syringe-brake/">
+<img style="width:700px" src="/images/Featured%20Projects/Syringe%20brake/khglobal.png"> Syringe Brake
 </a></p>
 		
   </div>
