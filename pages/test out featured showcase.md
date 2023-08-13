@@ -11,7 +11,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/project-showcase/featured-projects/3d-virtual-reality-apprenticeship-program/">
-<img style="width:7000px" src="/images/Featured%20Projects/3D%20VR%20Apprentice/3d%20virtual%20reality%20apprenticeship%20program%20for%20medication%20prescriptions%20(vrx)%20logos.png">
+<img style="width:3000px" src="/images/Featured%20Projects/3D%20VR%20Apprentice/3d%20virtual%20reality%20apprenticeship%20program%20for%20medication%20prescriptions%20(vrx)%20logos.png">
 	
 </a></p>
 
@@ -24,7 +24,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/effidrain/">
-<img style="width:700px" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg"> Effidrain
+<img style="width:3000px" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg"> Effidrain
 </a></p>
 		
   </div>
@@ -34,7 +34,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/e-xact-shapes/">
-<img style="width: 700px" src="/images/nccs%20logo.png"> E-xact Shapes
+<img style="width: 3000px" src="/images/nccs%20logo.png"> E-xact Shapes
 </a></p>
 		
   </div>
@@ -44,7 +44,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/gamification-as-a-learning-tool-for-mri-safety/">
-<img style="width:800px" src="/images/nmi%20logo.png"> Gamification
+<img style="width:3000px" src="/images/nmi%20logo.png"> Gamification
 </a></p>
   </div>
 </div>
