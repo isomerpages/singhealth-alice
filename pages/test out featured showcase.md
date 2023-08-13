@@ -197,3 +197,53 @@ description: ""
 </a></p>
   </div>
 </div>
+
+
+
+<div class="row">
+  <div class="column">
+    
+
+
+<h1></h1>
+
+<p><a href="/project-showcase/featured-projects/vr-cognitive-training/">
+<img style="width:800px" src="/images/Featured%20Projects/VR%20Cognitive%20Training/vr%20cognitive%20training%20logos.png"> Virtual Reality Cognitive Training (VRCT)
+
+</a></p><p></p>
+
+
+
+  </div>
+  <div class="column">
+    
+		
+
+<h1></h1>
+ <p><a href="/project-showcase/featured-projects/wheelaway/">
+<img src="/images/skgh-logo.png"> 
+WheelAway
+
+</a></p>
+		
+  </div>
+  <div class="column">
+      
+
+
+<h1></h1>
+ <p><a href="">
+<img src=""> 
+</a></p>
+		
+  </div>
+  <div class="column">
+    
+
+
+<h1></h1>
+ <p><a href="">
+<img src=""> 
+</a></p>
+  </div>
+</div>
