@@ -60,7 +60,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/project-showcase/featured-projects/i-comm/">
-<img style="width:700px" src="images/Featured%20Projects/I%20COMM/I%20COMM/cgh%20logo%201.png"> i-COMM
+<img style="width:800px" src="/images/cgh%20logo.png"> i-COMM
 </a></p>
 
 
