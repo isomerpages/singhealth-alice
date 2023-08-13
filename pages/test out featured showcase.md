@@ -24,7 +24,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/effidrain/">
-<img style="width:6000px" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg"> Effidrain
+<img style="width:700px" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg"> Effidrain
 </a></p>
 		
   </div>
@@ -34,7 +34,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/e-xact-shapes/">
-<img style="width:7000px" src="/images/nccs%20logo.png"> E-xact Shapes
+<img style="width: 700px" src="/images/nccs%20logo.png"> E-xact Shapes
 </a></p>
 		
   </div>
