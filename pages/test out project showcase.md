@@ -11,7 +11,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/">
-<img style="width:1000px" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">bbb
+<img style="width:3000px" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
 	
 </a></p>
 
@@ -24,7 +24,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/blue-mirror/">
-<img style="width:1000px" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png">
+<img style="width:4000px" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png">
 </a></p>
 		
   </div>
@@ -34,7 +34,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/bwatch/">
-<img style="width:900px" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png"> BWatch,,,
+<img style="width:2000px" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png"> BWatch
 </a></p>
 		
   </div>
