@@ -72,7 +72,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/gold-finger/">
-<img style="width:600px" src=""> Gold Finger
+<img style="width:600px" src="/images/Experiential%20Showcases/CANIOSAFE/headgear%20logo.png"> Gold Finger
 </a></p>
 		
   </div>
