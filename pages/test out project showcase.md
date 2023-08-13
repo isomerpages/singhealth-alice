@@ -11,7 +11,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/">
-<img width="300" height="300" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
 	
 </a></p>
 
@@ -34,7 +34,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/bwatch/">
-<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png"> BWatch
 </a></p>
 		
   </div>
@@ -43,11 +43,14 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
+ <p><a style="width:100%" href="/project-showcase/experiential-showcase-project/chroma/">
+<img src=""> CHROMA
 </a></p>
   </div>
 </div>
+
+    
+	
 
 <div class="row">
   <div class="column">
@@ -79,7 +82,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/mic-home/">
-<img style="width:90%" src="/images/Experiential%20Showcases/MIC@HOME/mic@home%20logos.png">   MIC@ Home 
+<img style="width:100%" src="/images/Experiential%20Showcases/MIC@HOME/mic@home%20logos.png">   MIC@ Home 
 </a></p>
 		
   </div>
@@ -89,15 +92,19 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:60%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+<img style="width:100%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
 </a></p>
   </div>
 </div>
+
+  
+  
 
 
 <div class="row">
   <div class="column">
     
+
 
 
 <h1></h1>
@@ -135,10 +142,14 @@ description: ""
 
 <h1></h1>
  <p><a href="/singhealth-innovation-showcase/experiential-showcase-project/respiree/">
-<img style="width:60%" src="/images/Experiential%20Showcases/Respiree/respiree%20logo-02.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/Respiree/respiree%20logo-02.png">
 </a></p>
   </div>
 </div>
+
+<p></p>
+  
+
 
 
 <div class="row">
@@ -149,7 +160,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/project-showcase/experiential-showcase-project/screenii/">
-<img style="width:60%" src="/images/Experiential%20Showcases/SCREENii/unisc%20%20%20.png"> </a></p><figcaption><a href="/project-showcase/experiential-showcase-project/screenii/"> <strong> SCREENii  </strong> </a></figcaption><a href="/project-showcase/experiential-showcase-project/screenii/">
+<img style="width:100%" src="/images/Experiential%20Showcases/SCREENii/unisc%20%20%20.png"> </a></p><figcaption><a href="/project-showcase/experiential-showcase-project/screenii/"> <strong> SCREENii  </strong> </a></figcaption><a href="/project-showcase/experiential-showcase-project/screenii/">
 
 
 </a><p></p>
@@ -163,7 +174,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/experiential-showcase-project/us-2/">
-<img style="width:90%" src="/images/us2%20ai%20logo.png"> 
+<img style="width:100%" src="/images/us2%20ai%20logo.png"> 
 </a></p>
 		
   </div>
@@ -173,7 +184,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/singhealth-innovation-showcase/experiential-showcase-project/usine/">
-<img style="width:40%" src="/images/Experiential%20Showcases/USine/usine%20logo.png"> 
+<img style="width:100%" src="/images/Experiential%20Showcases/USine/usine%20logo.png"> 
 </a></p>
 		
   </div>
@@ -183,7 +194,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/visbuddy/">
-<img src="/images/Experiential%20Showcases/VisBuddy/visbuddy%20logos.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/VisBuddy/visbuddy%20logos.png">
 </a></p>
   </div>
 </div>
