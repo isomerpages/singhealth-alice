@@ -34,7 +34,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/bwatch/">
-<img style="width:900px" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png"> BWatch
+<img style="width:900px" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png"> BWatch,,,
 </a></p>
 		
   </div>
