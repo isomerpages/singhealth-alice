@@ -81,8 +81,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/mic-home/">
-<img style="width:600px" src="/images/Experiential%20Showcases/MIC@HOME/mic@home%20logos.png">   MIC@ Home 
+ <p><a href="/project-showcase/featured-projects/portable-gait/">
+<img style="width:600px" src="/images/Featured%20Projects/Portable%20Gait/logo%20%20%20%20.png"> Portable gait
 </a></p>
 		
   </div>
