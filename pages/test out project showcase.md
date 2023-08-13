@@ -44,7 +44,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:900px" src=""> CHROMA
+<img style="width:600px" src="/images/Experiential%20Showcases/CANIOSAFE/headgear%20logo.png"> CHROMA
 </a></p>
   </div>
 </div>
