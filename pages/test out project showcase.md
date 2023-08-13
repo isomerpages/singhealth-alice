@@ -109,22 +109,23 @@ description: ""
   </tr>
   <tr>
     <td><h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:90%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+ <p><a href="/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/">
+<img width="300" height="300" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
+	
 </a></p>
   
 </td>
     <td><h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:90%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+  <p><a href="/project-showcase/experiential-showcase-project/blue-mirror/">
+<img style="width:100%" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png">
 </a></p>
   
 </td>
     <td><h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:90%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+<h1></h1>
+ <p><a href="/project-showcase/experiential-showcase-project/bwatch/">
+<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
 </a></p>
-  
 </td>
   </tr>
   <tr>
