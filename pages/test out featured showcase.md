@@ -72,7 +72,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/featured-projects/i-ted/">
-<img style="width:600px" src="/images/Featured%20Projects/I%20TED/vsm_red_logo_vertical%20(003).png">  i-TED
+<img style="width:900px" src="/images/Featured%20Projects/I%20TED/vsm_red_logo_vertical%20(003).png">  i-TED
 </a></p>
 		
   </div>
