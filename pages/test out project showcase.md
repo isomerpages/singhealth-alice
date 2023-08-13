@@ -11,7 +11,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/">
-<img height="132" width="100" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
+<img src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png">
 </a></p>
 
 
