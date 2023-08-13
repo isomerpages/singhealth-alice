@@ -60,7 +60,7 @@ description: ""
 <h1></h1>
 
 <p><a href="/project-showcase/experiential-showcase-project/croniosafe/">
-<img style="width:500px" src="/images/Experiential%20Showcases/CANIOSAFE/headgear%20logo.png">
+<img style="width:700px" src="/images/Experiential%20Showcases/CANIOSAFE/headgear%20logo.png">
 </a></p>
 
 
@@ -72,7 +72,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/gold-finger/">
-<img style="width:1000px" src=""> Gold Finger
+<img style="width:700px" src=""> Gold Finger
 </a></p>
 		
   </div>
@@ -82,7 +82,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/mic-home/">
-<img style="width:1000px" src="/images/Experiential%20Showcases/MIC@HOME/mic@home%20logos.png">   MIC@ Home 
+<img style="width:700px" src="/images/Experiential%20Showcases/MIC@HOME/mic@home%20logos.png">   MIC@ Home 
 </a></p>
 		
   </div>
@@ -92,7 +92,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:900px" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+<img style="width:700px" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
 </a></p>
   </div>
 </div>
@@ -122,7 +122,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/nursing-software-suite/">
-<img style="width:1000px" src="/images/Experiential%20Showcases/Nursing%20Software%20suites/logos%20%20%20%20.png"> Patient Bedside Tablet Solution (Nursing Software Suites)
+<img style="width:700px" src="/images/Experiential%20Showcases/Nursing%20Software%20suites/logos%20%20%20%20.png"> Patient Bedside Tablet Solution (Nursing Software Suites)
 </a></p>
 		
   </div>
