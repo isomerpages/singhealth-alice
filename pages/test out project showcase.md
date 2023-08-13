@@ -19,17 +19,11 @@ description: ""
   </div>
   <div class="column">
     
-		
-		
-		
-		
-		
-		
 
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/blue-mirror/">
-<img height="132" width="100" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png">
+<img style="8px" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png">
 </a></p>
 		
   </div>
@@ -39,7 +33,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/bwatch/">
-<img height="132" width="100" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
 </a></p>
 		
   </div>
@@ -49,7 +43,7 @@ description: ""
 
 <h1></h1>
  <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img height="132" width="100" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/Bwatch/logos%20%20%20%20.png">
 </a></p>
   </div>
 </div>
