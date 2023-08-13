@@ -182,8 +182,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/singhealth-innovation-showcase/experiential-showcase-project/usine/">
-<img style="width:700px" src="/images/Experiential%20Showcases/USine/usine%20logo.png"> 
+ <p><a href="/project-showcase/featured-projects/telemyofunctional-therapy-app/">
+<img style="width:900px" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app%20logos%201.png"> Telemyofunctional Therapy App
 </a></p>
 		
   </div>
@@ -192,8 +192,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/visbuddy/">
-<img style="width:700px" src="/images/Experiential%20Showcases/VisBuddy/visbuddy%20logos.png">
+ <p><a href="/project-showcase/featured-projects/use-of-innovative-technology-nus-boothless-protocol/">
+<img style="width:900px" src="/images/Featured%20Projects/NUS%20Boothless/nus%20boothless%20hearing%20protocol%20logos.png"> Use of Innovative technology (NUS Boothless Protocol) in enabling audiology access
 </a></p>
   </div>
 </div>
