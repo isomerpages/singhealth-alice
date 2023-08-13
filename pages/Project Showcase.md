@@ -24,4 +24,4 @@ description: ""
 </div>
 
 
-  <p><a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/"><img style="width:150px;height:70px;" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png"></a></p>  
+  <p><a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/"><img style="width:150px;height:70px;" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png"></a></p>
