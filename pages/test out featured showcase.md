@@ -91,8 +91,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/chroma/">
-<img style="width:700px" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
+ <p><a href="/project-showcase/featured-projects/retikid/">
+<img style="width:700px" src="/images/seri%20logo.png"> RetiKid
 </a></p>
   </div>
 </div>
@@ -109,8 +109,8 @@ description: ""
 
 <h1></h1>
 
-<p><a href="/project-showcase/experiential-showcase-project/mri-safe-positioning-probe/">
-<img style="width:600px" src="/images/Experiential%20Showcases/CANIOSAFE/headgear%20logo.png"> MRI-safe pseudo ultrasound probe 
+<p><a href="/project-showcase/featured-projects/robotic-assisted-ultrasonography-system/">
+<img style="width:600px" src="/images/Featured%20Projects/ROBUST/robust%20logo.png"> ROBUST
 </a></p>
 
 
@@ -121,8 +121,8 @@ description: ""
 		
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/nursing-software-suite/">
-<img style="width:700px" src="/images/Experiential%20Showcases/Nursing%20Software%20suites/logos%20%20%20%20.png"> Patient Bedside Tablet Solution 
+ <p><a href="/project-showcase/featured-projects/rpharmacy/">
+<img style="width:700px" src="/images/sgh%20logo%20keyline_colour.png"> RPhArmacy
 </a></p>
 		
   </div>
@@ -131,8 +131,8 @@ description: ""
 
 
 <h1></h1>
- <p><a href="/project-showcase/experiential-showcase-project/nursing-software-suite/">
-<img style="width:700px" src="/images/Experiential%20Showcases/Nursing%20Software%20devices/logos%20%20%20.png">   Portable Bedside Activity Device
+ <p><a href="/project-showcase/featured-projects/skh-multi-modal-training-and-assessment/">
+<img style="width:700px" src="/images/Featured%20Projects/MATCH/match%20logo.png">   SKH’s MATCH Device
 </a></p>
 		
   </div>
