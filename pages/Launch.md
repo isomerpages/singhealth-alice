@@ -34,4 +34,14 @@ Address: [Outram Community Hospital, 10 Hospital Boulevard, Singapore 168582](ht
 | 09:05am - 09:15am | Welcome video by A.L.I.C.E @ SGH Campus Clinical Director | 
 | 09:15am - 09:45am | Networking Session | 
 | 09:45am - 11:45am | End of Launch Programme | 
- | | |
+| | |
+
+A.L.I.C.E @ SGH campus is please to invite the following projects for our experiential showcase during the tour. During the tour, you will be able to know more about their innovation journey:
+
+1. Introduction of Supercomputer Programme 
+2. Introduction of Makerspace anf 3D Printed Projects
+3. **Experiential Project 1:** Ai Triage 
+4. **Experiential Project 2:** Nursing Software Suite + Respiree + Bwatch + Blue Mirror 
+5. **Experiential Project 3:** CarBTM Carbohydrate Counting Augmented Reality Buddy &amp; MIC @ Home   
+
+For more information on the projects, click [here](https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/) to find out more. 
