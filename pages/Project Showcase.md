@@ -25,6 +25,6 @@ description: ""
 
 ### Experiential Project Showcase
 
-| Column 1 | Column 2 | Column 3 |
+|  |  |  |
 | -------- | -------- | -------- |
 | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/"> <img style="width:70%" alt="AiTriage" src="/images/Experiential%20Showcases/AiTriage/aitriage.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/blue-mirror/"> <img style="width:70%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png"> </a> | <b> [Bwatch](https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/bwatch/) </b> |
