@@ -2,7 +2,7 @@ collections:
   project-showcase:
     output: true
     order:
-      - Experiential Showcase Project/Portable.md
+      - Experiential Showcase Project/Portable Bedside Activity Device.md
       - Experiential Showcase Project/.keep
       - Experiential Showcase Project/aiTriage.md
       - Experiential Showcase Project/Blue Mirror.md
