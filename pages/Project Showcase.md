@@ -23,5 +23,6 @@ description: ""
   </div>
 </div>
 
-![](/images/logo%201.png)
+### Experiential Project Showcase
 
+![](/images/logo%201.png)
