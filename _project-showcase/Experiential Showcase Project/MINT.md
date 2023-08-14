@@ -4,7 +4,7 @@ permalink: /project-showcase/experiential-showcase-project/mint/
 description: ""
 third_nav_title: Experiential Showcase Project
 ---
-#### Minimally INvasive Trabeculotomy (MINT)
+### Minimally INvasive Trabeculotomy (MINT)
 
 
 <img style="width:80%" src="/images/Experiential%20Showcases/MINT/mint%20logo.PNG">
@@ -16,7 +16,6 @@ The MINT device is a minimally invasive surgical instrument. It provides a safe,
 <img style="width:80%" src="/images/Experiential%20Showcases/MINT/render4.jpg">
 <figcaption> <strong> MINT </strong> </figcaption>
 </figure>
-
 
 <img style="width:80%" src="/images/Experiential%20Showcases/MINT/pi%20&amp;%20team%20pic.png">
 
