@@ -27,6 +27,6 @@ sections:
         the Lee Foundation.
       button: CLICK HERE TO LEARN MORE
       alt: Image alt text
-      url: /launch/overview
+      url: /launch
       image: /images/ck och inno ctr 0058-min.JPG
 ---
