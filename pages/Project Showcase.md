@@ -5,26 +5,6 @@ description: ""
 ---
 ### Experiential Project Showcase
 
-<div class="row">
-  <div class="column">
-		<a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/">
-    <img style="width:100%" alt="AiTriage" src="/images/Experiential%20Showcases/AiTriage/aitriage.png" align="right"> 
-		</a> 
-  </div>
-  <div class="column">
-<a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/blue-mirror/">
-    <img style="width:100%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png" align="middle"> 
-		</a>
-  </div>
-  <div class="column">
-<a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/bwatch/">
-    <img style="width:100%" alt="Bwatch" src="/images/Experiential%20Showcases/Bwatch/bwatch.png" align="left"> 
-		</a>
-  </div>
-</div>
-
-### Experiential Project Showcase
-
 |  |  |  |
 | -------- | -------- | -------- |
 | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/"> <img style="width:70%" alt="AiTriage" src="/images/Experiential%20Showcases/AiTriage/aitriage.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/blue-mirror/"> <img style="width:70%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/bwatch/"> <img style="width:70%" alt="Bwatch" src="/images/Experiential%20Showcases/Bwatch/bwatch.png"> </a>  |
@@ -37,7 +17,7 @@ description: ""
 
 ### Featured Projects
 
-| Featured Projects | |  |
+|  | |  |
 | -------- | -------- | -------- |
 | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/3d-virtual-reality-apprenticeship-program/"> <img style="width:70%" alt="VRx" src="/images/Featured%20Projects/3D%20VR%20Apprentice/vrx%20logo.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/effidrain/"> <img style="width:70%" alt="Effidrain" src="/images/Featured%20Projects/Effidrain/effidrain.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/e-xact-shapes/"> <img style="width:70%" alt="E-xact Shapes" src="/images/Featured%20Projects/e-xact%20shapes%20logo.png"> </a> |
-| <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/gamification-as-a-learning-tool-for-mri-safety/"> <img style="width:70%" alt="Gamification" src="/images/Featured%20Projects/gamification.png"> </a> | 
+| <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/gamification-as-a-learning-tool-for-mri-safety/"> <img style="width:70%" alt="Gamification" src="/images/Featured%20Projects/gamification.png"> </a> |
