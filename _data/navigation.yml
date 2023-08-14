@@ -1,5 +1,7 @@
 logo: /images/alice_sgh.png
 links:
+  - title: Launch
+    url: /launch
   - title: Forewords
     collection: forewords
   - title: Project Showcase
