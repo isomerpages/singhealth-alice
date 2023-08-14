@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Launch.md
-      - Event Details.md
       - Programme Schedule.md
