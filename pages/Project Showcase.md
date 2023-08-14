@@ -13,7 +13,7 @@ description: ""
   </div>
   <div class="column">
 <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/blue-mirror/">
-    <img style="width:900%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png"> 
+    <img style="width:100%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png"> 
 		</a>
   </div>
   <div class="column">
