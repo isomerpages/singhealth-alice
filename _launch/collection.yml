@@ -1,5 +1,4 @@
 collections:
   launch:
     output: true
-    order:
-      - Launch.md
+    order: []
