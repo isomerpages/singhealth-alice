@@ -2,6 +2,6 @@ collections:
   launch:
     output: true
     order:
-      - Overview.md
+      - Launch.md
       - Event Details.md
       - Programme Schedule.md
