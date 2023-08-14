@@ -12,5 +12,4 @@ The device is able to provide users with clinical information on fluid pressures
 
 The project is currently progressing in pilot human trials.
 
-
-**<img style="width:30%" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg" align="right">**
+<img style="width:20%" src="/images/Featured%20Projects/Effidrain/cgh%20%20%20.jpg" align="right">
