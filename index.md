@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Programme Schedule
           description: ""
-          url: /launch/programme-schedule
+          url: /launch
         - title: Unveiling of the new brand
           description: ""
           url: /unveiling-of-the-new-brand
       title: Launch of A.L.I.C.E
       button: About the event
-      url: /launch/overview/
+      url: /launch
       subtitle: "@ SGH Campus"
   - infopic:
       title: A.L.I.C.E @ SGH Campus
