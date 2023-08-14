@@ -34,3 +34,10 @@ description: ""
 | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/screenii/"> <img style="width:70%" alt="SCREENii" src="/images/Experiential%20Showcases/screenii.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/experiential-showcase-project/us-2/"> <img style="width:70%" alt="us2.ai" src="/images/Experiential%20Showcases/us2ai%20logo.png"> </a> | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/singhealth-innovation-showcase/experiential-showcase-project/usine/"> <img style="width:70%" alt="usine" src="/images/Experiential%20Showcases/USine/usine%20logo%20(new).png"> </a> |
 | | <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/experiential-showcase-project/visbuddy/"> <img style="width:70%" alt="VisBuddy" src="/images/Experiential%20Showcases/visbuddy.png"> </a> |
 | | |
+
+### Featured Projects
+
+| Featured Projects | |  |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
