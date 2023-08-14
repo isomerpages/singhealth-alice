@@ -39,5 +39,4 @@ description: ""
 
 | Featured Projects | |  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| <a href="https://staging.d1xtto16z2jhvq.amplifyapp.com/project-showcase/featured-projects/3d-virtual-reality-apprenticeship-program/"> <img style="width:70%" alt="VRx" src="/images/Featured%20Projects/3D%20VR%20Apprentice/vrx%20logo.png"> </a> | Text     | Text     |
