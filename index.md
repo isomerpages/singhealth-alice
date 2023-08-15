@@ -16,8 +16,6 @@ sections:
           description: ""
           url: https://www.singhealthdukenus.com.sg/innovation/ALICE/Pages/New-Brand.aspx
       title: Launch of A.L.I.C.E
-      button: About the event
-      url: /launch
       subtitle: "@ SGH Campus"
   - infopic:
       title: A.L.I.C.E @ SGH Campus
@@ -27,6 +25,6 @@ sections:
         the Lee Foundation.
       button: CLICK HERE TO LEARN MORE
       alt: Image alt text
-      url: /launch
+      url: https://www.singhealthdukenus.com.sg/innovation/ALICE
       image: /images/ck och inno ctr 0058-min.JPG
 ---
