@@ -25,7 +25,7 @@ Address: [SingHealth Tower, 10 Hospital Boulevard, Singapore 168582](https://goo
 
 ### Programme Schedule
 
-| Event Timeline|  |
+| Event Timeline |  |
 | -------- | -------- | 
 | 08:00am - 08:30am | Open for registration |
 | 08:30am - 08:35am | Opening Remarks |
