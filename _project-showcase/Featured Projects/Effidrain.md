@@ -4,7 +4,7 @@ permalink: /project-showcase/featured-projects/effidrain/
 description: ""
 third_nav_title: Featured Projects
 ---
-#### Effidrain- A precision drainage device for chest and abdominal drains
+### Effidrain- A precision drainage device for chest and abdominal drains
 
 Effidrain is a drainage device that can be adapted to existing chest and abdominal drains, incorporating a software for users to program drainage rates. 
 
