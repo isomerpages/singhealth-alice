@@ -8,4 +8,4 @@ third_nav_title: Experiential Showcase Project
 
 Patients who aspirate on liquid beverages due to swallowing impairment often need to consume beverages that are thickened accurately to a recommended thickness level. Our product, VisBuddy, aims to accurately prepare thickened beverages that are **SAFE** for the patient (clump-free, accurate auto-thickening), **SWIFT** (faster than hand-mixing) and **SURE** for the caregiver (measure and verify viscosity).
 
-<img style="width:50%" src="/images/Experiential%20Showcases/VisBuddy/visbuddy%20logos.png">
+<img style="width:50%" src="/images/Experiential%20Showcases/VisBuddy/visbuddy%20logo.png">
