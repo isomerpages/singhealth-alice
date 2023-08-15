@@ -8,4 +8,4 @@ third_nav_title: Featured Projects
 
 Increased recognition of the value of gait speed in rehabilitation and heavy demands on therapists’ time led us to develop a device that would make assessment efficient and accurate and manageable by an assistant.  The product is a robotic device with inbuilt sensors that detect gait speed, and other gait parameters as the patient walks past it.
 
-<img style="width:70%" src="/images/Featured%20Projects/Portable%20Gait/logo%20%20%20%20.png" align="right">
+<img style="width:70%" src="/images/Featured%20Projects/Portable%20Gait/portable%20gait%20logo.png" align="right">
