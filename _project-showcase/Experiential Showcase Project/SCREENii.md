@@ -15,4 +15,4 @@ Large-scale prefrailty screening using the walking speed and handgrip strength t
 <figcaption> <strong> SCREENii  </strong> </figcaption>
 </figure>
 
-<img style="width:50%" src="/images/Experiential%20Showcases/SCREENii/screenii%20logos.png">
+<img style="width:50%" src="/images/Experiential%20Showcases/SCREENii/screenii%20logo.png">
