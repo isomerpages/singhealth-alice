@@ -13,10 +13,10 @@ Glaucoma is a leading cause of blindness affecting more than 80 million patients
 The MINT device is a minimally invasive surgical instrument. It provides a safe, efficacious, and easy-to-use treatment for POAG.  
 
 <figure>
-<img style="width:80%" src="/images/Experiential%20Showcases/MINT/render4.jpg">
+<img style="width:60%" src="/images/Experiential%20Showcases/MINT/render4.jpg">
 <figcaption> <strong> MINT </strong> </figcaption>
 </figure>
 
-<img style="width:80%" src="/images/Experiential%20Showcases/MINT/pi%20&amp;%20team%20pic.png">
+<img style="width:100%" src="/images/Experiential%20Showcases/MINT/pi%20&amp;%20team%20pic.png">
 
 <img style="width:30%" src="/images/Experiential%20Showcases/MINT/seri_fnl_logo_fc.jpg" align="right">
