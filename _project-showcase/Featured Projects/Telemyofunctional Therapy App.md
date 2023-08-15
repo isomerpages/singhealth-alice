@@ -10,4 +10,4 @@ third_nav_title: Featured Projects
 
 Our AI-enabled smartphone App can help patient perform myofunctional therapy at home with feedback from the AI system to tell them if they are performing exercise accurately.  This app can improve patient snoring and sleep, reduce hospital resource utilization and provides a wider reach and scalability of therapy, which fills a large gap in myofunctional therapy for patients at present in the follow up care.
 
-<img style="width:80%" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app%20logos%201.png">
+<img style="width:60%" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app%20logos%201.png">
