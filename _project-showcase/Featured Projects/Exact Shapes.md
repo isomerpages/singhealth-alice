@@ -10,4 +10,4 @@ This project uses cutting edge additive manufacturing technology such as 3D prin
 
 Click [here](/files/e-xact%20shapes%203d%20printed%20electron%20plaque.pdf) to find out more!
 
-<img style="width:30%" src="/images/nccs%20logo.png" align="right">
+<img style="width:20%" src="/images/nccs%20logo.png" align="right">
