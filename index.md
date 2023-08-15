@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ck och inno ctr 0020-min.JPG
+      background: /images/ck och inno ctr 0012-min.JPG
       key_highlights:
         - title: Programme Schedule
           description: ""
