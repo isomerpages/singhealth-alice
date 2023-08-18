@@ -1,0 +1,40 @@
+collections:
+  project-showcase:
+    output: true
+    order:
+      - Experiential Showcase Project/.keep
+      - Experiential Showcase Project/aiTriage.md
+      - Experiential Showcase Project/Blue Mirror.md
+      - Experiential Showcase Project/Bwatch.md
+      - Experiential Showcase Project/CHROMA.md
+      - Experiential Showcase Project/CRANIOSAFE.md
+      - Experiential Showcase Project/GoldFinger.md
+      - Experiential Showcase Project/MIC@HOME.md
+      - Experiential Showcase Project/MINT.md
+      - Experiential Showcase Project/MRI Safe Positioning Probe.md
+      - Experiential Showcase Project/Nursing Software Suites.md
+      - Experiential Showcase Project/Portable Bedside Activity Device.md
+      - Experiential Showcase Project/Respiree.md
+      - Experiential Showcase Project/SCREENii.md
+      - Experiential Showcase Project/us2ai.md
+      - Experiential Showcase Project/uSine.md
+      - Experiential Showcase Project/VisBuddy.md
+      - Featured Projects/.keep
+      - Featured Projects/Effidrain.md
+      - Featured Projects/Exact Shapes.md
+      - Featured Projects/Gamification as a learning tool for MRI safety.md
+      - Featured Projects/iCOMM.md
+      - Featured Projects/iTED.md
+      - Featured Projects/MATCH.md
+      - Featured Projects/NUS Boothless Protocol.md
+      - Featured Projects/Portable Gait.md
+      - Featured Projects/RetiKid.md
+      - Featured Projects/ROBUST.md
+      - Featured Projects/RPhArmacy.md
+      - Featured Projects/SpiroBooth.md
+      - Featured Projects/STARK.md
+      - Featured Projects/Syringe Brake.md
+      - Featured Projects/Telemyofunctional Therapy App.md
+      - Featured Projects/VR Cognitive Training.md
+      - Featured Projects/VRx.md
+      - Featured Projects/WheelAway.md
