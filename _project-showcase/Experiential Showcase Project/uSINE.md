@@ -7,6 +7,6 @@ image: /images/USine/usine logo.png
 ---
 ### The world’s first artificial intelligence-powered (AI) ultrasound guided automated spinal landmark identification system, uSINE®
 
-uSINE® is the world’s first ultrasound-based guidance system that determines the needle insertion point using machine-learning algorithm and automated spinal landmark ultrasound imaging of the lumbar spine identifying the correct insertion point. This enables clinicians to conduct pre-procedural scan for precise needle insertion to avoid multiple puncture attempts and enhance patient care. This technology is recently implemented in clinical practice.
+KKH has recently implemented the world's first artificial intelligence-powered (AI) ultrasound guided automated spinal landmark identification system, uSINE®, to help women achieve successful spinal anaesthesia at the first attempt during childbirth. uSINE® harnesses technology to improve the quality of anaesthesia and to reduce complications. 
 
 <img style="width:30%" src="/images/Experiential%20Showcases/USine/usine%20logo.png" align="right">
