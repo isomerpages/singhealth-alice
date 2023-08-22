@@ -16,4 +16,4 @@ By SHARP Intelligent Surgical Instrument Management (iSIM), GoldFinger is to han
 * Organise the instruments in a way that allows steam penetration
 * Include chemical integrator on the instrument tray
 
-Click here for more information : [GoldFinger](/files/information%20on%20bigbox%20goldfinger.pdf)
+<img style="width:50%" src="/images/Experiential%20Showcases/goldfinger%20logos.png">
