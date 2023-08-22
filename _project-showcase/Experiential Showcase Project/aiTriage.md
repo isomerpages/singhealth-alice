@@ -8,4 +8,4 @@ third_nav_title: Experiential Showcase Project
 
 aiTriage™ is a ground-breaking software as a medical device that enables healthcare professionals to rapidly identify chest pain patients at risk of major adverse cardiac events (MACE). Powered by AI, aiTriage™ generates a precise risk score within minutes, without invasive blood tests. This revolutionary tool empowers physicians to guide triage decisions swiftly and confidently, enhancing care efficiency and patient outcomes.
 
-<img style="width:30%" src="/images/Experiential%20Showcases/AiTriage/tiim%20healthcare%20logo.png" align="right">
+<img style="width:50%" src="/images/Experiential%20Showcases/AiTriage/screenshot%202023-08-22%20085257.png">

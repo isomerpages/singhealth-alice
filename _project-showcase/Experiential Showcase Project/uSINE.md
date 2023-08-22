@@ -1,5 +1,5 @@
 ---
-title: uSine
+title: uSINE
 permalink: /singhealth-innovation-showcase/experiential-showcase-project/usine/
 description: ""
 third_nav_title: Experiential Showcase Project
