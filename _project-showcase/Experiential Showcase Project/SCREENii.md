@@ -6,7 +6,7 @@ third_nav_title: Experiential Showcase Project
 ---
 ### Frailty Screening using SCREENii  
 
-*(Space-saving, Cost-efficient, Responsive, Economizes time, Easy-to-use, uses Normative data, Innovative, Intelligent)*
+*(<u>S</u>pace-saving, <u>C</u>ost-efficient, <u>R</u>esponsive, <u>E</u>conomizes time, <u>E</u>asy-to-use, uses <u>N</u>ormative data, <u>I</u>nnovative, <u>I</u>ntelligent)*
 
 Large-scale prefrailty screening using the walking speed and handgrip strength tests is challenged by logistical, physical, and personnel issues. SCREENii is invented to overcome these issues. It is an easy-to-operate device that (i) integrates the 2 tests into a single device, (ii) provides measurements with precision, and (ii) incorporates normative data collected from Singaporean older adults.
 
