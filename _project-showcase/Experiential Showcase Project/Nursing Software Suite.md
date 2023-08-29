@@ -1,6 +1,6 @@
 ---
-title: Nursing Software Suites
-permalink: /project-showcase/experiential-showcase-project/nursing-software-suites/
+title: Nursing Software Suite
+permalink: /project-showcase/experiential-showcase-project/nursing-software-suite/
 description: ""
 third_nav_title: Experiential Showcase Project
 ---
