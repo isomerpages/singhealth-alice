@@ -14,7 +14,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- | 
-| <img style="width:70%" alt="CHROMA" src="/images/white%20background.png"> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/chroma/"> <img style="width:70%" alt="CHROMA" src="/images/Experiential%20Showcases/chroma%20logo.png"> </a>  | <img style="width:70%" alt="CHROMA" src="/images/white%20background.png"> |
+| <img style="width:70%" alt="whitebackground" src="/images/white%20background.png"> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/chroma/"> <img style="width:70%" alt="CHROMA" src="/images/Experiential%20Showcases/chroma%20logo.png"> </a>  | <img style="width:70%" alt="whitebackground" src="/images/white%20background.png"> |
 | | | 
 
 
@@ -46,16 +46,16 @@ description: ""
 
 ### Robots
 
-|  |  | 
-| -------- | -------- |
-| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/portable-gait/"> <img style="width:70%" alt="Portable Gait" src="/images/Featured%20Projects/Portable%20Gait/portable%20gait.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/robust/"> <img style="width:70%" alt="ROBUST" src="/images/Featured%20Projects/ROBUST/robust.png"> </a> | 
+|  |  | |
+| -------- | -------- | -------- |
+| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/portable-gait/"> <img style="width:70%" alt="Portable Gait" src="/images/Featured%20Projects/Portable%20Gait/portable%20gait.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/robust/"> <img style="width:70%" alt="ROBUST" src="/images/Featured%20Projects/ROBUST/robust.png"> </a> | <img style="width:70%" alt="whitebackground" src="/images/white%20background.png"> | 
 | | |
 
 ### Telehealth
 
 |  |  |  |
 | -------- | -------- | -------- | 
-| | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/mic-home/"> <img style="width:70%" alt="MIC@Home" src="/images/Experiential%20Showcases/MIC@HOME/mic@home.png"> </a>  | |
+| <img style="width:70%" alt="whitebackground" src="/images/white%20background.png"> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/mic-home/"> <img style="width:70%" alt="MIC@Home" src="/images/Experiential%20Showcases/MIC@HOME/mic@home.png"> </a>  | <img style="width:70%" alt="whitebackground" src="/images/white%20background.png"> |
 | | | 
 
 ### Virtual Reality
