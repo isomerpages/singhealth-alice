@@ -12,4 +12,4 @@ Our AI-enabled smartphone App can help patient perform myofunctional therapy at 
 
 <img style="width:80%" src="/images/Featured%20Projects/Telemyofunctional/vrt%20image%20without%20background%20.png">
 
-<img style="width:60%" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app%20logos%201.png">
+<img style="width:50%" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app%20logos%201.png">
