@@ -10,6 +10,14 @@ description: ""
 | <a href="https://www.alicelaunch.com/singhealth-innovation-showcase/experiential-showcase-projects/aitriage/"> <img style="width:70%" alt="AiTriage" src="/images/Experiential%20Showcases/AiTriage/aitriage.png"> </a>  | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/retikid/"> <img style="width:70%" alt="RetiKid" src="/images/Featured%20Projects/retikid.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/experiential-showcase-project/us-2/"> <img style="width:70%" alt="us2.ai" src="/images/Experiential%20Showcases/us2ai%20logo.png"> </a> | <a href="https://www.alicelaunch.com/singhealth-innovation-showcase/experiential-showcase-project/usine/"> <img style="width:70%" alt="usine" src="/images/Experiential%20Showcases/USine/usine%20logo%20(new).png"> </a>  |
 | | | | 
 
+### Digital
+
+|  |  |  
+| -------- | -------- | 
+|  <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/blue-mirror/"> <img style="width:70%" alt="Blue Mirror" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/match/"> <img style="width:70%" alt="MATCH" src="/images/Featured%20Projects/MATCH/match%20banner.png"> </a> | 
+| | |
+
+
 ### Mobile Application
 
 |  |  |  | |
@@ -28,10 +36,16 @@ description: ""
 | | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/visbuddy/"> <img style="width:70%" alt="VisBuddy" src="/images/Experiential%20Showcases/VisBuddy/visbuddy.png"> </a> | |  
 | | | 
 
+### Robots
+
+|  |  | 
+| -------- | -------- |
+| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/portable-gait/"> <img style="width:70%" alt="Portable Gait" src="/images/Featured%20Projects/Portable%20Gait/portable%20gait.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/robust/"> <img style="width:70%" alt="ROBUST" src="/images/Featured%20Projects/ROBUST/robust.png"> </a> | 
+| | |
+
 ### Virtual Reality
 
 |  |  |  | |
 | -------- | -------- | -------- | -------- |
 | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/vr-cognitive-training/"> <img style="width:70%" alt="VR Cognitive Training" src="/images/Featured%20Projects/VR%20Cognitive%20Training/vr%20cognitive%20training.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/vrx/"> <img style="width:70%" alt="VRx" src="/images/Featured%20Projects/3D%20VR%20Apprentice/vrx%20logo.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/wheelaway/"> <img style="width:70%" alt="WheelAway" src="/images/Featured%20Projects/wheelaway.png"> </a> | 
-| | | 
-
+| | |
