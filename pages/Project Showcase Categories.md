@@ -3,6 +3,14 @@ title: Project Showcase Categories
 permalink: /project-showcase-categories/
 description: ""
 ---
+### 3D Prototyping
+
+|  |  | 
+| -------- | -------- | 
+| <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/croniosafe/"> <img style="width:70%" alt="CRANIOSAFE" src="/images/Experiential%20Showcases/CRANIOSAFE/craniosafe.png"> </a>  | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/e-xact-shapes/"> <img style="width:70%" alt="E-xact Shapes" src="/images/Featured%20Projects/e-xact%20shapes.png"> </a> | 
+| | |
+
+
 ### Artificial Intelligence
 
 |  |  |  | |
