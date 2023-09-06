@@ -20,7 +20,7 @@ description: ""
 | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/portable-beside-activity-device/"> <img style="width:70%" alt="Portable Bedside Activity Device" src="/images/Experiential%20Showcases/Nursing%20Software%20devices/portable%20bedside%20activity%20device.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/telemyofunctional-therapy-app/"> <img style="width:70%" alt="Telemyofunctional Therapy App" src="/images/Featured%20Projects/Telemyofunctional/telemyofunctional%20therapy%20app.png"> </a> |  |
 | | |
 
-### Medical Devices
+### Medical Technology
 
 |  |  |  | |
 | -------- | -------- | -------- | -------- |
@@ -29,6 +29,13 @@ description: ""
 | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/screenii/"> <img style="width:70%" alt="SCREENii" src="/images/Experiential%20Showcases/SCREENii/screenii.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-projects/featured-projects/stark/"> <img style="width:70%" alt="STARK" src="/images/Featured%20Projects/STARK/stark%20logo.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/syringe-brake/"> <img style="width:70%" alt="Syringe Brake" src="/images/Featured%20Projects/Syringe%20brake/syringe%20brake.png"> </a> |
 | | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/visbuddy/"> <img style="width:70%" alt="VisBuddy" src="/images/Experiential%20Showcases/VisBuddy/visbuddy.png"> </a> | |  
 | | | 
+
+### Process Re-design
+
+|  |  | |
+| -------- | -------- | -------- |
+| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/nus-boothless-protocol/"> <img style="width:70%" alt="NUS Boothless Protocol" src="/images/Featured%20Projects/NUS%20Boothless/nus%20boothless%20protocol.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/rpharmacy/"> <img style="width:70%" alt="RPhArmacy" src="/images/Featured%20Projects/rpharmacy.png"> </a>  | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-projects/spirobooth/"> <img style="width:70%" alt="SpiroBooth" src="/images/Featured%20Projects/SpiroBooth/spirobooth.png"> </a> | 
+| | |
 
 ### Robots
 
