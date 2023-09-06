@@ -59,6 +59,13 @@ description: ""
 | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/portable-gait/"> <img style="width:70%" alt="Portable Gait" src="/images/Featured%20Projects/Portable%20Gait/portable%20gait.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/robust/"> <img style="width:70%" alt="ROBUST" src="/images/Featured%20Projects/ROBUST/robust.png"> </a> | 
 | | |
 
+### Telehealth
+
+|  |  |  |
+| -------- | -------- | -------- | 
+| | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/mic-home/"> <img style="width:70%" alt="MIC@Home" src="/images/Experiential%20Showcases/MIC@HOME/mic@home.png"> </a>  | |
+| | | 
+
 ### Virtual Reality
 
 |  |  |  | |
