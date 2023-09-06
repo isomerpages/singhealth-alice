@@ -14,7 +14,7 @@ description: ""
 
 |  |  |  |
 | -------- | -------- | -------- | 
-| | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/chroma/"> <img style="width:70%" alt="CHROMA" src="/images/Experiential%20Showcases/chroma%20logo.png"> </a>  |  |
+| <img style="width:70%" alt="CHROMA" src="/images/white%20background.png"> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/chroma/"> <img style="width:70%" alt="CHROMA" src="/images/Experiential%20Showcases/chroma%20logo.png"> </a>  | <img style="width:70%" alt="CHROMA" src="/images/white%20background.png"> |
 | | | 
 
 
