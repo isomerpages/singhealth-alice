@@ -37,6 +37,13 @@ description: ""
 | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/visbuddy/"> <img style="width:70%" alt="VisBuddy" src="/images/Experiential%20Showcases/VisBuddy/visbuddy.png"> </a> | 
 | | |
 
+### Process Re-design
+
+|  |  |  |
+| -------- | -------- | -------- |
+| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/nus-boothless-protocol/"> <img style="width:70%" alt="NUS Boothless Protocol" src="/images/Featured%20Projects/NUS%20Boothless/nus%20boothless%20protocol.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/rpharmacy/"> <img style="width:70%" alt="RPhArmacy" src="/images/Featured%20Projects/rpharmacy.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-projects/spirobooth/"> <img style="width:70%" alt="SpiroBooth" src="/images/Featured%20Projects/SpiroBooth/spirobooth.png"> </a> |
+| | | 
+
 ### Robotics
 
 |  |  |  |
