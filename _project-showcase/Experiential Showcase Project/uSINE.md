@@ -25,7 +25,8 @@ uSine® transforms delivery of anaesthesia for women in childbirth:
 * Enhanced safety and precision leads to better health outcomes 
 * Clinical trials showed success rates of 1st attempt at 92% (healthy weight women) and 82% (obese women), compared to conventional method of 70% (healthy weight women) and 43% (obese women)
 
-More about the project: 
+More about the project: <img style="width:30%" src="/images/Experiential%20Showcases/USine/kkh%20video%20of%20usine.png" align="middle">
+
 
 Link is available [here](https://fb.watch/lR-LYVcTda/?mibextid=Nif5oz).
 
