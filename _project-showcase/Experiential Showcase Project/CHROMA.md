@@ -10,4 +10,10 @@ CHROMA is a strategic partnership between **National Supercomputing Centre (NSCC
 
 With its powerful computing abilities, CHROMA aims to accelerate and catalyse healthcare research empowering medical breakthroughs for improved patient care.
 
+Capabilities:
+
+<img style="width:70%" src="/images/Experiential%20Showcases/chroma%20capabilities.png">
+
+<br>
+
 <img style="width:30%" src="/images/Experiential%20Showcases/chroma%20full%20colour.jpg" align="right">
