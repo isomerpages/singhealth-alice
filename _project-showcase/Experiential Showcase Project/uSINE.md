@@ -14,4 +14,19 @@ KK Women's and Children's Hospital has implemented the world's first artificial 
 <figcaption> <strong> Precise identification of the spinal landmark </strong> </figcaption>
 </figure>
 
+<figure>
+<img style="width:50%" src="/images/Experiential%20Showcases/USine/close%20up%20-%20precise%20identification%20of%20the%20spinal%20landmark.jpg">
+<figcaption> <strong> Close up - Precise identification of the spinal landmark </strong> </figcaption>
+</figure>
+
+uSine® transforms delivery of anaesthesia for women in childbirth:
+* Ultrasound imaging and AI identifies the right location and right angle of spinal needle insertion 
+* Successful spinal anaesthesia at 1st attempt
+* Enhanced safety and precision leads to better health outcomes 
+* Clinical trials showed success rates of 1st attempt at 92% (healthy weight women) and 82% (obese women), compared to conventional method of 70% (healthy weight women) and 43% (obese women)
+
+More about the project: 
+
+Link is available [here](https://fb.watch/lR-LYVcTda/?mibextid=Nif5oz).
+
 <img style="width:30%" src="/images/Experiential%20Showcases/USine/usine%20logo.png" align="right">
