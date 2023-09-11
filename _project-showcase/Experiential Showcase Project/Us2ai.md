@@ -18,6 +18,6 @@ real time echo reports &amp; disease detection </strong> </figcaption>
 
 <img style="width:50%" src="/images/us2ai%20.png">
 
-Learn more - Book a Demo: <img style="width:50%" src="/images/us2ai%20qr.png">
+Learn more - Book a Demo: <img style="width:20%" src="/images/us2ai%20qr.png">
 
 <img style="width:30%" src="/images/us2%20ai%20logo.png" align="right">
