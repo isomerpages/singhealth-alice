@@ -50,3 +50,10 @@ description: ""
 | -------- | -------- | -------- |
 | <img style="width:70%" alt="white background" src="/images/white%20background.png"> | <a href="https://www.alicelaunch.com/project-showcase/experiential-showcase-project/mic-home/"> <img style="width:70%" alt="MIC@Home" src="/images/Experiential%20Showcases/MIC@HOME/mic@home.png"> </a>  | <img style="width:70%" alt="white background" src="/images/white%20background.png">| 
 | | |
+
+### Virtual Reality
+
+|  |  |  |
+| -------- | -------- | -------- |
+| <a href="https://www.alicelaunch.com/project-showcase/featured-projects/wheelaway/"> <img style="width:70%" alt="WheelAway" src="/images/Featured%20Projects/wheelaway.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/vr-cognitive-training/"> <img style="width:70%" alt="VR Cognitive Training" src="/images/Featured%20Projects/VR%20Cognitive%20Training/vr%20cognitive%20training.png"> </a> | <a href="https://www.alicelaunch.com/project-showcase/featured-projects/vrx/"> <img style="width:70%" alt="VRx" src="/images/Featured%20Projects/3D%20VR%20Apprentice/vrx%20logo.png"> </a> | 
+| |  |
