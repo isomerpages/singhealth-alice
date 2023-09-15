@@ -6,9 +6,7 @@ third_nav_title: Experiential Showcase Project
 ---
 ### **C**omputational **H**ealth **R**esearch and **O**ptimisation for **M**edical **A**dvancements
 
-CHROMA is a strategic partnership between **National Supercomputing Centre (NSCC)** and **SingHealth** to make available high performance compute resource for access and use by the research community in SingHealth and potentially other collaborators in the Health and Biomedical services.
-
-With its powerful computing abilities, CHROMA aims to accelerate and catalyse healthcare research empowering medical breakthroughs for improved patient care.
+CHROMA is a strategic partnership between National Supercomputing Centre (NSCC) and SingHealth to make high performance compute resources readily available for the research community in SingHealth and potentially other collaborators in the health and biomedical services sector. With its powerful computing abilities, CHROMA aims to accelerate and catalyse healthcare research, empowering medical breakthroughs for improved patient care.
 
 Capabilities:
 
@@ -20,4 +18,4 @@ Tech Stack:
 
 <br> 
 
-<img style="width:30%" src="/images/Experiential%20Showcases/chroma%20full%20colour.jpg" align="right">
+<img style="width:40%" src="/images/Experiential%20Showcases/chroma%20logos%20(1).PNG">
