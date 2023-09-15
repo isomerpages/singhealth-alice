@@ -14,6 +14,8 @@ The hands-free solution is powered by artificial intelligence (AI) technology an
 
 <img style="width:50%" src="/images/Experiential%20Showcases/blue%20mirror%202.png">
 
-<br>
+Outcomes:
+* Promote staff safety without additional manpower
+* Save workforce efforts in training and education
 
 <img style="width:50%" src="/images/Experiential%20Showcases/Nursing%20Software%20Smart%20Mirror/blue%20mirror%20.png">
