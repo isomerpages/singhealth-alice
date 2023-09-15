@@ -46,6 +46,9 @@ Product Value Proposition:
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoListParagraph" style="margin:0cm;margin-bottom:.0001pt;mso-add-space:
   auto;line-height:normal"><span lang="EN-US" style="mso-ansi-language:EN-US">An interim evaluation of SGH@Home revealed that patients are appreciative of the option to receive hospital-level care in the comfort of their homes, feel safe, and is assured of the quality of care.<b><u></u></b></span></p></td></tr></tbody></table>
+	
+Patient Journey: 
+![](/images/Experiential%20Showcases/MIC@HOME/image%201.jpg)
 
 **QR Code** <br>
 
