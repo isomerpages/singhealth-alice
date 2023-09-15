@@ -14,4 +14,12 @@ BWATCH™ is a lightweight device placed over a patient’s bandage for continuo
 <figcaption> <strong> Bwatch </strong> </figcaption>
 </figure>
 
+Features: 
+* Continuous monitoring for bleeding
+* Detects blood specifically
+* Does not require direct contact with wound or blood
+* Rechargeable &amp; reusable
+* Wireless &amp; lightweight
+* Patented in Singapore and USA
+
 <img style="width:50%" src="/images/Experiential%20Showcases/Bwatch/bwatch%20logo.png">
