@@ -14,6 +14,10 @@ Capabilities:
 
 <img style="width:70%" src="/images/Experiential%20Showcases/chroma%20capabilities.png">
 
-<br>
+Tech Stack: 
+
+<img style="width:70%" src="/images/Experiential%20Showcases/chroma%20tech%20stack%20.png">
+
+<br> 
 
 <img style="width:30%" src="/images/Experiential%20Showcases/chroma%20full%20colour.jpg" align="right">
