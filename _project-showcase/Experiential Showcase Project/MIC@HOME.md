@@ -49,7 +49,7 @@ Product Value Proposition:
 	
 Patient Journey: 
 
-<img style="width:70%" src="/images/Experiential%20Showcases/MIC@HOME/image%201.jpg">
+<img style="width:90%" src="/images/Experiential%20Showcases/MIC@HOME/image%201.jpg">
 
 **QR Code** <br>
 
