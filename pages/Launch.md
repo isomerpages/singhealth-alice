@@ -30,7 +30,8 @@ Address: [SingHealth Tower, 10 Hospital Boulevard, Singapore 168582](https://goo
 | 08:00am - 08:30am | Open for registration |
 | 08:30am - 08:35am | Opening Remarks |
 | 08:35am - 09:05am | Live Streaming of Academia Events by SH Academy |
-| 09:05am - 09:15am | Welcome video by A.L.I.C.E @ SGH Campus Clinical Director | 
+| 09:05am - 09:10am | Remarks by Prof Kenneth Kwek, Deputy Group Chief Executive Officer (Innovation &amp; Informatics) |
+| 09:10am - 09:15am | Video Remarks by A/Prof Henry Ho, Director (Clinical), A.L.I.C.E @ SGH Campus | 
 | 09:15am - 09:45am | Networking Session | 
 | 09:45am - 11:45am | End of Launch Programme | 
 | | |
