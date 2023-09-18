@@ -38,10 +38,11 @@ Address: [SingHealth Tower, 10 Hospital Boulevard, Singapore 168582](https://goo
 
 A.L.I.C.E @ SGH Campus is please to invite the following projects for our experiential showcase during the tour. During the tour, you will be able to know more about their innovation journey:
 
-1. Introduction of Supercomputer Programme 
-2. Centre Capabilities
-3. Experiential Project 1: Ai Triage 
-4. Experiential Project 2: Nursing Software Suite + Respiree + Bwatch + Blue Mirror 
-5. Experiential Project 3: MIC @ Home   
+1. Centre Capabilities
+2. Microsoft Demonstration
+3. Introduction of Supercomputer Programme
+4. Experiential Project 1: Ai Triage 
+5. Experiential Project 2: Blue Mirror, Nursing Software Suite, Respiree, Bwatch 
+6. Experiential Project 3: MIC @ Home   
 
 For more information on the projects, click [here](https://alicelaunch.com/project-showcase/) to find out more.
