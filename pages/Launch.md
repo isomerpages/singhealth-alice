@@ -5,7 +5,7 @@ description: ""
 ---
 ### Overview
 
-It is an honour to be graced by the presence of Minister Tan See Leng, Second Minister for Trade and Industry), for the launch of A.L.I.C.E @ SGH Campus. 
+It is an honour to be graced by the presence of Dr Tan See Leng, Second Minister for Trade and Industry), for the launch of A.L.I.C.E @ SGH Campus. 
 
 The launch provides a platform for healthcare personnel and commercial partners to exhibit their achievement  within the advancement of SingHealth Innovation ecosystem and culture whereby showcasing  SingHealth’s innovation progress and capabilities. 
 
