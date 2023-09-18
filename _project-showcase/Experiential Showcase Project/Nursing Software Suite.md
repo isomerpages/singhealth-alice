@@ -11,10 +11,10 @@ Patients in the general ward can access their individual care information anytim
 The tablet houses solutions to: 
 * allow patients and family members access to their care records (*MyCare* app)
 * enable personalised education and self-help activities based on care needs (*MyEdu* app, *Food In &amp; Out* app)
-* access to game based *rehabilitation* solutions
+* access to game based rehabilitation solutions
 
 Upcoming solutions powered by the bedside tablet: 
-* Inpatient teleconult (med counselling, patient and family updates)
+* Inpatient teleconsult (med counselling, patient and family updates)
 * Symptom reporting
 * Patient centred history taking 
 
