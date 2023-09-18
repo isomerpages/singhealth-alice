@@ -32,7 +32,8 @@ Address: [SingHealth Tower, 10 Hospital Boulevard, Singapore 168582](https://goo
 | 09:05am - 09:10am | Remarks by Prof Kenneth Kwek, Deputy Group Chief Executive Officer (Innovation &amp; Informatics) |
 | 09:10am - 09:15am | Video Remarks by A/Prof Henry Ho, Director (Clinical), A.L.I.C.E @ SGH Campus | 
 | 09:15am - 09:45am | Networking Session | 
-| 09:45am - 11:45am | End of Launch Programme | 
+| 09:45am - 11:50am | Start of Experential Tour for guests |
+| 11:50am - 12:00pm | End of Programme | 
 | | |
 
 A.L.I.C.E @ SGH Campus is please to invite the following projects for our experiential showcase during the tour. During the tour, you will be able to know more about their innovation journey:
