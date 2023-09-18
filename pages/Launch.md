@@ -5,7 +5,7 @@ description: ""
 ---
 ### Overview
 
-It is an honour to be graced by the presence of Minister Tan See Leng, Second Minister for Trade and Industry), for the launch of A.L.I.C.E @ SGH Campus. 
+It is an honour to be graced by the presence of Dr Tan See Leng, Second Minister for Trade and Industry), for the launch of A.L.I.C.E @ SGH Campus. 
 
 The launch provides a platform for healthcare personnel and commercial partners to exhibit their achievement  within the advancement of SingHealth Innovation ecosystem and culture whereby showcasing  SingHealth’s innovation progress and capabilities. 
 
@@ -28,19 +28,21 @@ Address: [SingHealth Tower, 10 Hospital Boulevard, Singapore 168582](https://goo
 | Event Timeline |  |
 | -------- | -------- | 
 | 08:00am - 08:30am | Open for registration |
-| 08:30am - 08:35am | Opening Remarks |
-| 08:35am - 09:05am | Live Streaming of Academia Events by SH Academy |
-| 09:05am - 09:15am | Welcome video by A.L.I.C.E @ SGH Campus Clinical Director | 
+| 08:30am - 09:05am | Live Streaming of SingHealth Scientific Congress 2023 |
+| 09:05am - 09:10am | Remarks by Prof Kenneth Kwek, Deputy Group Chief Executive Officer (Innovation &amp; Informatics) |
+| 09:10am - 09:15am | Video Remarks by A/Prof Henry Ho, Director (Clinical), A.L.I.C.E @ SGH Campus | 
 | 09:15am - 09:45am | Networking Session | 
-| 09:45am - 11:45am | End of Launch Programme | 
+| 09:45am - 11:50am | Start of Experential Tour for guests |
+| 11:50am - 12:00pm | End of Programme | 
 | | |
 
 A.L.I.C.E @ SGH Campus is please to invite the following projects for our experiential showcase during the tour. During the tour, you will be able to know more about their innovation journey:
 
-1. Introduction of Supercomputer Programme 
-2. Centre Capabilities
-3. Experiential Project 1: Ai Triage 
-4. Experiential Project 2: Nursing Software Suite + Respiree + Bwatch + Blue Mirror 
-5. Experiential Project 3: MIC @ Home   
+1. Centre Capabilities
+2. Microsoft Demonstration
+3. Introduction of Supercomputer Programme
+4. Experiential Project 1: Ai Triage 
+5. Experiential Project 2: Blue Mirror, Nursing Software Suite, Respiree, Bwatch 
+6. Experiential Project 3: MIC @ Home   
 
 For more information on the projects, click [here](https://alicelaunch.com/project-showcase/) to find out more.
