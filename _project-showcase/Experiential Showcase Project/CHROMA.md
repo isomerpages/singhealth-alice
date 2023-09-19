@@ -13,4 +13,4 @@ Tech Stack:
 
 <img style="width:70%" src="/images/Experiential%20Showcases/chroma%20tech%20stack%20.png">
 
-<img style="width:40%" src="/images/Experiential%20Showcases/chroma%20new%20logos.png">
+<img style="width:30%" src="/images/Experiential%20Showcases/chroma%20new%20logos.png">
