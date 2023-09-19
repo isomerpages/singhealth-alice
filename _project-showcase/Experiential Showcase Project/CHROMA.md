@@ -15,4 +15,4 @@ Tech Stack:
 
 <br> 
 
-<img style="width:40%" src="/images/Experiential%20Showcases/chroma%20logos%20(1).PNG">
+<img style="width:40%" src="/images/Experiential%20Showcases/chroma%20new%20logos.png">
