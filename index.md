@@ -27,4 +27,12 @@ sections:
       alt: Image alt text
       url: https://www.singhealthdukenus.com.sg/innovation/ALICE
       image: /images/ck och inno ctr 0058-min.JPG
+  - infopic:
+      title: "Commercial Naviguide "
+      subtitle: "The launch of "
+      description: A guide to commercial partners like you in navigating the
+        healthcare innovation landscape within SingHealth.
+      button: "Click here to find out more "
+      url: https://www.singhealthdukenus.com.sg/innovation/ALICE/Pages/Naviguide.aspx
+      alt: Image alt text
 ---
